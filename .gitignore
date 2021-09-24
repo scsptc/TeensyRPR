@@ -1,5 +1,9 @@
 # Ignore list for KiCAD Projects
 
+# Apple
+.DS_Store
+._*
+
 # Temporary files
 *.000
 *.bak
